@@ -7,11 +7,11 @@ users are prompted to enter a city name. Once the location is entered, the app r
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/107539107/233193932-9ddee6cf-32c3-41f9-a213-b05eebf0a08f.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/107539107/233194036-80cac1e9-57a4-4ea4-9f0b-cac5ede0e064.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/107539107/233194140-7285b323-2cc9-4d8f-8e02-63ac3c13082b.png)
 
 
 ## API Reference
